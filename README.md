@@ -1,5 +1,5 @@
 # DistributedQueue
-A naive distributed queue implementation using Couchbase
+A distributed queue implementation using Couchbase using Couchbase as storage engine
 
 [MAVEN]
 <dependency>
